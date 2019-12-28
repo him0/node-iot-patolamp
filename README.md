@@ -6,7 +6,7 @@ Manage Patolamp state with AWS IoT Core.
 
 ```
 $ npm install -g pm2
-$ mpn install
+$ npm install
 ```
 
 ## Run Server
