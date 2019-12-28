@@ -9,10 +9,16 @@ $ npm install -g pm2
 $ mpn install
 ```
 
-## Run
+## Run Server
 
 ```
 $ pm2 start ecosystem.config.js
+```
+
+## Run Client
+
+```
+$ node client.js
 ```
 
 ## Reference
